@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "anything-to-dataiku",
-      "source": ".",
+      "source": "./",
       "description": "Migrate Alteryx, Jupyter, Excel, and SAS workflows into native Dataiku flows.",
       "version": "0.1.0",
       "homepage": "https://github.com/chris-gann/anything-to-dataiku",
