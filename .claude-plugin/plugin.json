@@ -1,0 +1,12 @@
+{
+  "name": "anything-to-dataiku",
+  "version": "0.1.0",
+  "description": "Migrate Alteryx, Jupyter, Excel, and SAS workflows into native Dataiku flows. Bundles a Python MCP server, source-format parsers, and visual-recipe builders so Claude can autonomously plan and build the migrated flow.",
+  "author": {
+    "name": "Chris Gannon"
+  },
+  "homepage": "https://github.com/chrisgannon20/anything-to-dataiku",
+  "repository": "https://github.com/chrisgannon20/anything-to-dataiku",
+  "license": "MIT",
+  "keywords": ["dataiku", "alteryx", "jupyter", "excel", "sas", "migration", "etl"]
+}

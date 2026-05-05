@@ -1,0 +1,17 @@
+{
+  "name": "anything-to-dataiku",
+  "owner": {
+    "name": "Chris Gannon"
+  },
+  "plugins": [
+    {
+      "name": "anything-to-dataiku",
+      "source": ".",
+      "description": "Migrate Alteryx, Jupyter, Excel, and SAS workflows into native Dataiku flows.",
+      "version": "0.1.0",
+      "homepage": "https://github.com/chrisgannon20/anything-to-dataiku",
+      "license": "MIT",
+      "keywords": ["dataiku", "alteryx", "jupyter", "excel", "sas", "migration"]
+    }
+  ]
+}

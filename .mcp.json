@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "dataiku": {
+      "command": "${CLAUDE_PLUGIN_DATA}/venv/bin/python",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp-server/server.py"],
+      "env": {
+        "ANYTHING_TO_DATAIKU_CONFIG": "${ANYTHING_TO_DATAIKU_CONFIG:-}"
+      }
+    }
+  }
+}
