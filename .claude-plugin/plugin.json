@@ -5,8 +5,8 @@
   "author": {
     "name": "Chris Gannon"
   },
-  "homepage": "https://github.com/chrisgannon20/anything-to-dataiku",
-  "repository": "https://github.com/chrisgannon20/anything-to-dataiku",
+  "homepage": "https://github.com/chris-gann/anything-to-dataiku",
+  "repository": "https://github.com/chris-gann/anything-to-dataiku",
   "license": "MIT",
   "keywords": ["dataiku", "alteryx", "jupyter", "excel", "sas", "migration", "etl"]
 }

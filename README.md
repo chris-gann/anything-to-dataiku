@@ -24,7 +24,7 @@ The plugin bundles 21 skills (one per Dataiku domain — recipes, scenarios, wik
 In Claude Code:
 
 ```
-/plugin marketplace add https://github.com/chrisgannon20/anything-to-dataiku
+/plugin marketplace add https://github.com/chris-gann/anything-to-dataiku
 /plugin install anything-to-dataiku@anything-to-dataiku
 ```
 

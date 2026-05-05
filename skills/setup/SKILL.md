@@ -24,8 +24,8 @@ If it does not exist, proceed to Step 2.
 ### Step 2 — Collect instance details from the user
 
 Ask the user for:
-1. **Instance name** — short identifier they'll use to switch between instances (e.g. `Argano`, `Production`, `Dev`). Must be a valid JSON key.
-2. **Instance URL** — full URL like `https://argano-dataiku.com` (no trailing slash).
+1. **Instance name** — short identifier they'll use to switch between instances (e.g. `Production`, `Dev`). Must be a valid JSON key.
+2. **Instance URL** — full URL to their Dataiku instance, no trailing slash.
 3. **API key** — they generate this in Dataiku via *Profile & settings → API keys → Personal API key*. It starts with `dkuaps-`.
 4. **Description** (optional) — one-line label shown in the instance list.
 
